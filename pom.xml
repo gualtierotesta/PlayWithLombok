@@ -29,7 +29,7 @@
         <!-- Dependencies versions -->
         <junit.version>4.13.2</junit.version>
         <lombok.version>1.18.22</lombok.version>
-        <assertj.version>3.21.0</assertj.version>
+        <assertj.version>3.23.1</assertj.version>
         
     </properties>
        
